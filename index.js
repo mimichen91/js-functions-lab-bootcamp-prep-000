@@ -8,5 +8,5 @@ function happyHolidaysTo() {
 }
 
 function happyHolidayTo() {
-  consol.log('Happy ${holiday}, ${name}')
+  console.log('Happy ${holiday}, ${name}')
 }
