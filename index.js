@@ -7,6 +7,7 @@ function happyHolidaysTo() {
   console.log('Happy holidays, ${name}!')
 }
 
+happyHolidaysTo('you')
 function happyHolidayTo() {
   console.log('Happy ${holiday}, ${name}')
 }
